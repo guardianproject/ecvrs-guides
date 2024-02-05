@@ -2,25 +2,25 @@
 
 * [Introduction](README.md)
 
-## 🔎 Research and Discovery
+## 🔎 Deeper Understanding through Discussion and Discovery
 
-* [Introduction to Understanding](research-and-discovery/introduction-to-understanding.md)
+* [Introduction to Understanding](deeper-understanding-through-discussion-and-discovery/introduction-to-understanding.md)
 
-## 🏃♀  Holistic Audits for ICT4D
+## 🏃♀  Performing Holistic Audits on ICT4D
 
-* [Introduction to Holistic Audits](holistic-audits-for-ict4d/introduction-to-holistic-audits.md)
-* [Our Iterative Process](holistic-audits-for-ict4d/our-iterative-process.md)
-* [Security Considerations](holistic-audits-for-ict4d/security-considerations.md)
-* [Security Audits](holistic-audits-for-ict4d/security-audits.md)
-* [Application Architecture](holistic-audits-for-ict4d/application-architecture.md)
-* [Source Code Security](holistic-audits-for-ict4d/source-code-security.md)
-* [Vulnerability Scanning](holistic-audits-for-ict4d/vulnerability-scanning.md)
-* [Penetration Testing](holistic-audits-for-ict4d/penetration-testing.md)
-* [DevSecOps](holistic-audits-for-ict4d/devsecops.md)
+* [Introduction to Holistic Audits](performing-holistic-audits-on-ict4d/introduction-to-holistic-audits.md)
+* [Our Iterative Process](performing-holistic-audits-on-ict4d/our-iterative-process.md)
+* [Security Considerations](performing-holistic-audits-on-ict4d/security-considerations.md)
+* [Security Audits](performing-holistic-audits-on-ict4d/security-audits.md)
+* [Application Architecture](performing-holistic-audits-on-ict4d/application-architecture.md)
+* [Source Code Security](performing-holistic-audits-on-ict4d/source-code-security.md)
+* [Vulnerability Scanning](performing-holistic-audits-on-ict4d/vulnerability-scanning.md)
+* [Penetration Testing](performing-holistic-audits-on-ict4d/penetration-testing.md)
+* [DevSecOps](performing-holistic-audits-on-ict4d/devsecops.md)
 
-## 🚀 Launching Tech for ICT4D
+## 🚀 Launching and Deploying New Tech in ICT4D
 
-* [Introduction to Launching Technology](launching-tech-for-ict4d/introduction-to-launching-technology.md)
+* [Introduction to Launching Technology](launching-and-deploying-new-tech-in-ict4d/introduction-to-launching-technology.md)
 
 ## 🧑🤝🧑 Threats and Risks for Civil Digital Identity
 
