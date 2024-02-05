@@ -21,6 +21,10 @@
 ## 🚀 Launching and Deploying New Tech in ICT4D
 
 * [Introduction to Launching Technology](launching-and-deploying-new-tech-in-ict4d/introduction-to-launching-technology.md)
+* [Beauty and Flaws of Architecture](launching-and-deploying-new-tech-in-ict4d/beauty-and-flaws-of-architecture.md)
+* [Source Code Concerns](launching-and-deploying-new-tech-in-ict4d/source-code-concerns.md)
+* [Development and Secure Operations](launching-and-deploying-new-tech-in-ict4d/development-and-secure-operations.md)
+* [Scanning and Testing](launching-and-deploying-new-tech-in-ict4d/scanning-and-testing.md)
 
 ## 🧑🤝🧑 Threats and Risks for Civil Digital Identity
 
