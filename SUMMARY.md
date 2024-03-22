@@ -5,6 +5,7 @@
 ## 🔎 PEOPLE: Deeper Understanding through Discussion and Discovery
 
 * [Introduction to Understanding](deeper-understanding-through-discussion-and-discovery/introduction-to-understanding.md)
+* [Stakeholder Experiences](people-deeper-understanding-through-discussion-and-discovery/stakeholder-experiences.md)
 
 ## 🏃‍♀️  PROCESS: Performing Holistic Audits on ICT4D
 
